@@ -1,0 +1,122 @@
+\chapter{Conclusioni}
+\thispagestyle{empty}
+Tutti gli interventi ipotizzati in questa analisi progettuale di riqualificazione energetica hanno prodotto dei risultati incoraggianti in quanto, come si è visto, è possibile ridurre in maniera molto più che evidente il consumo istantaneo di metano nella centrale di cogenerazione del policlinico necessario alla produzione di energia termica (sia per il \emph{caldo} che per il \emph{freddo}).
+
+Dopo aver analizzato i carichi dello stato di fatto e di progetto è stata dimensionata la sottocentrale termica da costruirsi nel piano \num{-1} dell'edificio 2. 
+
+L'ulteriore analisi effettuata è quella della \emph{certificazione energetica} in cui si va a valutare l'energia consumata all'interno dell'edificio 2 secondo la normativa UNI TS-11300. Questa verifica è stata eseguita, ovviamente, sia sullo stato di fatto che su quello di progetto.
+
+Il software utilizzato appartiene alla suite \emph{CYPE}: \textbf{CYPETHERMUS C.E.}
+
+In questo applicativo è stato importato il file \textsc{.ifc} e le stratigrafie dell'involucro (sia opaco che trasparente). Le zone termiche sono quelle utilizzate in fase di analisi dei carichi termici. Contestualmente sono stati inseriti i servizi energetici presenti all'interno dell'edificio 2:
+\begin{itemize}
+	\item Produzione di Acqua Calda Sanitaria;
+	\item Riscaldamento;
+	\item Raffrescamento;
+	\item Ventilazione;
+	\item Trasporto di persone/cose;
+	\item Illuminazione.
+\end{itemize}
+Nello stato di fatto il riscaldamento/raffrescamento per UTIC, Emodinamica e il Blocco Operatorio avviene tramite un impianto a tutt'aria (che quindi assicura anche la ventilazione meccanica degli ambienti); per i corpi A e C non vi è il raffrescamento mentre il riscaldamento è assicurato dall'impianto con radiatori; la ventilazione in questi due corpi, invece, è di tipo naturale con un ricambio orario di \n{1}{vol/h}; per il servizio di trasporto è stato inserito un ascensore per il corpo A e le tre unità operatorie; l'illuminazione è stata valutata inserendo la potenzialità per \si{m^2} come indicato in fase di definizione dei locali.
+
+I risultati presenti nell'\emph{Attestato di Prestazione Energetica degli edifici} (conosciuta anche come \emph{APE}) riferita allo stato di fatto, sono riassunti in \vref{ape:fatto}.
+\begin{table}
+	\centering
+	\begin{tabular}{lccc}
+		\toprule
+		\multicolumn{4}{c}{{\large Stato di fatto}}\\
+		\midrule
+		\multirow{2}{*}{Superficie Utile}		 	& Heating & \num{4934.99} & \si{m^2}	\\
+													& Cooling & \num{1152.49}  & \si{m^2} 	\\
+		\multirow{2}{*}{Volume Lordo}				& Heating & \num{17768.49}& \si{m^3} 	\\
+													& Cooling & \num{4185.23} & \si{m^3}    \\
+		\multirow{2}{*}{Prestazione energetica fabbricato} 		& Heating 	  &	\multicolumn{2}{c}{\textbf{BASSA}}  \\
+															  	& Cooling	  & \multicolumn{2}{c}{\textbf{BASSA}}  \\
+		$\mathrm{EP_{gl,nren}}$	& \num{321.63}	& \multicolumn{2}{c}{\si{\frac{kWh}{m^2anno}}} \\
+		Classe Energetica		&	\textbf{E} & &   \\
+		$\mathrm{EP_{h,nd}}$	& \num{352.13}	& \multicolumn{2}{c}{\si{\frac{kWh}{m^2anno}}} \\
+		Rapporto S/V			&	\num{0.40} &	&  \\
+		$\mathrm{A_{sol,est}/A_{sol,utile}}$	&	\num{0.18} &	&  \\
+		$\mathrm{Y_{IE}}$	&	\num{1.36}	& \multicolumn{2}{c}{\si{\frac{W}{m^2K}}}  \\
+		\midrule
+		\multicolumn{4}{c}{Fonti Energetiche Utilizzate}\\
+		\midrule
+		\multicolumn{2}{l}{Energia Elettrica da rete} 	& \num{320255.33} 	& \si{kWh} \\
+		\multicolumn{2}{l}{Gas Naturale}			  	& \num{97024.34}		& \si{m^3} \\
+		\bottomrule
+	\end{tabular}
+\caption{Prestazione Energetica -- Stato di fatto}\label{ape:fatto}
+\end{table}
+Le \emph{prestazioni energetiche} del fabbricato hanno restituito valori bassi, ovviamente. Per quanto riguarda la stagione invernale, il limite viene imposto dall'\emph{indice di prestazione termica utile} per il riscaldamento dell'edificio di riferimento. Nel caso, invece, della prestazione energetica estiva dell'involucro, l'indicatore è definito in base alla trasmittanza termica periodica $\mathrm{Y_{IE}}$ e all'area solare equivalente estiva per unità di superficie utile $\mathrm{A_{sol,est}/A_{sol,utile}}$. Per avere un risultato \textbf{ALTO}:
+\begin{itemize}
+	\item $\mathrm{A_{sol,est}/A_{sol,utile}} < \num{0.03}$;
+	\item $\mathrm{Y_{IE}} < \num{0.14}$.
+\end{itemize}
+
+Le fonti energetiche utilizzate sono soltanto il \emph{Gas Naturale}, per il cogeneratore della centrale termica del policlinico, e l'\emph{Energia Elettrica} per il funzionamento degli ausiliari, illuminazione e trasporto.
+
+Nello stato di progetto, invece, i risultati dell'APE sono riassunti in \vref{ape:progetto}.
+
+\begin{table}
+	\centering
+	\begin{tabular}{lccc}
+		\toprule
+		\multicolumn{4}{c}{{\large Stato di progetto}}\\
+		\midrule
+		\multirow{2}{*}{Superficie Utile}		 	& Heating & \num{4934.99} & \si{m^2}	\\
+													& Cooling & \num{4934.99}  & \si{m^2} 	\\
+		\multirow{2}{*}{Volume Lordo}				& Heating & \num{17768.49}& \si{m^3} 	\\
+													& Cooling & \num{17768.49} & \si{m^3}    \\
+		\multirow{2}{*}{Prestazione energetica fabbricato} 		& Heating 	  &	\multicolumn{2}{c}{\textbf{ALTA}}  \\
+																& Cooling	  & \multicolumn{2}{c}{\textbf{BASSA}}  \\
+		$\mathrm{EP_{gl,nren}}$	& \num{154.21}	& \multicolumn{2}{c}{\si{\frac{kWh}{m^2anno}}} \\
+		Classe Energetica		&	\textbf{B} & &   \\
+		$\mathrm{EP_{h,nd}}$	& \num{182.85}	& \multicolumn{2}{c}{\si{\frac{kWh}{m^2anno}}} \\
+		Rapporto S/V			&	\num{0.40} &	&  \\
+		$\mathrm{A_{sol,est}/A_{sol,utile}}$	&	\num{0.07} &	&  \\
+		$\mathrm{Y_{IE}}$	&	\num{0.62}	& \multicolumn{2}{c}{\si{\frac{W}{m^2K}}}  \\
+		\midrule
+		\multicolumn{4}{c}{Fonti Energetiche Utilizzate}\\
+		\midrule
+		\multicolumn{2}{l}{Energia Elettrica da rete} 	& \num{235374.05}	 	& \si{kWh} \\
+		\multicolumn{2}{l}{Gas Naturale}			  	& \num{30443.21}		& \si{m^3} \\
+		\bottomrule
+	\end{tabular}
+\caption{Prestazione Energetica -- Stato di progetto}\label{ape:progetto}
+\end{table}
+Le differenze maggiori si hanno sul risparmio annuo delle fonti energetiche utilizzate. La motivazione risiede sia nelle migliori condizioni dell'involucro e sia nell'utilizzo di fonti rinnovabili (quale è la geotermia). L'intervento di \emph{relamping} ha, inoltre, contribuito alla diminuzione del consumo di energia elettrica. È, però, il decremento di gas naturale a saltare all'occhio in quanto se da una parte viene migliorato l'involucro (e quindi è necessario riscaldare meno come lo si evince dal $\mathrm{EP_{h,nd}}$ che risulta essere molto più basso rispetto al corrispettivo valore dello stato di fatto), dall'altro vengono usate le pompe di calore che sfruttano il calore endogeno del terreno antistante l'edificio 2.
+
+Essendo l'edificio oggetto di intervento sottoposto ad una \emph{riqualificazione energetica}, i \emph{requisiti minimi}\footnote{dal DM 16/6/15} che sono stati verificati sono:
+\begin{itemize}
+	\item trasmittanze opache e trasparenti inferiori ai valori limiti indicati (come in \vref{vallim:opve});
+	\item trasmittanze dei divisori tra edifici o unità immobiliari distinti inferiori a~\n{0.8}{\trasm};
+	\item altezze minime dei locali di abitazione derogate fino a un massimo di \n{10}{cm};
+	\item assenza di rischio di formazione di muffe (con particolare attenzione ai ponti termici) e di condensazione interstiziale;
+	\item la riflettanza per le strutture di copertura piane superiore a \num{0.65};
+	\item il valore del fattore di trasmissione solare totale delle chiusure trasparenti $\mathrm{g_{gl+sh}<0.35}$;
+	\item installazione di opportuni dispositivi per la regolazione automatica per singolo ambiente o per singola unità immobiliare, assistita da compensazione climatica.
+\end{itemize}
+È interessante notare come per una riqualificazione energetica non sia necessario considerare l'inerzia dell'involucro opaco per contenere il carico estivo.
+
+Ritornando ai risultati ottenuti, considerando che l'AOU ``Federico II'' compra da \emph{Studium Power\&Service} (che possiede tutta la centrale termofrigorifera) energia elettrica e termica è possibile valutare il risparmio annuale che si ottiene effettuando gli interventi ipotizzati in questo elaborato di laurea.
+
+Si riportano i prezzi unitari offerti al policlinico: 
+\begin{itemize}
+	\item Energia elettrica: \num{0.114}\ \euro/kWh;
+	\item Energia termica: \num{0.057}\ \euro/kWh.
+\end{itemize}
+Il risparmio annuale sarà, quindi:
+\begin{itemize}
+	\item \num{17778}\ \euro\- di energia termica; %0.267 euro/mc di gas
+	\item \num{9676}\ \euro\- di energia elettrica.
+\end{itemize}
+
+Ad un risparmio energetico ne è sempre affiancato uno di tipo inquinante: utilizzare meno energia implica, per come è costruita la filiera energetica italiana (e mondiale), introdurre in ambiente meno inquinanti.
+
+Pertanto i risultati sono i seguenti:
+\begin{itemize}
+	\item \n{54.93}{tep}; % 1 mc di gas equivale a 8250x10-7
+	\item \num{23.8}\ tonnellate equivalenti di $\mathrm{CO_2}$ % 1 ton di CO2 equivale a 2.30 tep
+\end{itemize}
+
+I risultati sono molto incoraggianti: è possibile risparmiare in bolletta annualmente quasi \num{30000}\ \euro. Considerando che il budget per coprire le spese deriva dal \emph{Fondo per lo sviluppo e la coesione 2014-2020}, il policlinico può trarre, quindi, solo un grande vantaggio. A lavori ultimati, l'AOU possederà un edificio in classe B con tutte le conseguenze che ne derivano: involucro capace di resistere sia alla stagione invernale che quella estiva; un impianto idronico, aeraulico e elettrico moderno monitorato da un adeguato sistema di contabilizzazione dell'energia e di individuazione di eventuali guasti. Il tutto si traduce in maggior comfort per i degenti nonché per i medici, infermieri e studenti che occupano e vivono l'edificio.
