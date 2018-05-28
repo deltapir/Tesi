@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  28 MAY 2018 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  28 MAY 2018 13:17
 entering extended mode
 **./TESI_SPEC_NON_CANCELLARE.tex
 (TESI_SPEC_NON_CANCELLARE.tex
@@ -1656,8 +1656,8 @@ s
 )
 (TESI_SPEC_NON_CANCELLARE.aux (0_frontespizio/frontespizio.aux)
 (1_dedica/dedica.aux) (11_dedica/dedica.aux)
-(3_indicegenerale/indicegenerale.aux) (2_sommario/sommario.aux)
-(9_ringraziamenti/ringra.aux) (6_1_cap/1_cap.aux) (6_3_cap/3_cap.aux)
+(3_indicegenerale/indicegenerale.aux) (9_ringraziamenti/ringra.aux)
+(2_sommario/sommario.aux) (6_1_cap/1_cap.aux) (6_3_cap/3_cap.aux)
 (6_2_cap/2_cap.aux) (6_4_cap/4_cap.aux) (6_5_cap/5_cap.aux)
 (8_biblio/biblio.aux) (4_elencofig/elencofig.aux) (5_elencotab/elencotab.aux)
 (10_dedfinale/dedfinale.aux))
@@ -1880,17 +1880,10 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 
 
 ]
-\openout2 = `2_sommario/sommario.aux'.
-
-
-(2_sommario/sommario.tex [1
-
-
-
-])
 \openout2 = `9_ringraziamenti/ringra.aux'.
 
- (9_ringraziamenti/ringra.tex
+
+(9_ringraziamenti/ringra.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
@@ -1902,14 +1895,21 @@ LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <6.5> not available
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 7.
-[1
+[4
 
 
 
 ]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 15.
-) [2]
+ [5]) [6]
+\openout2 = `2_sommario/sommario.aux'.
+
+ (2_sommario/sommario.tex [1
+
+
+
+])
 \openout2 = `6_1_cap/1_cap.aux'.
 
  (6_1_cap/1_cap.tex
@@ -2110,7 +2110,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] <6_2_cap/img/cypeflow.png, id=111, 277.5168pt x 249.8133pt>
+[23] <6_2_cap/img/cypeflow.png, id=115, 277.5168pt x 249.8133pt>
 File: 6_2_cap/img/cypeflow.png Graphic file (type png)
 
 <use 6_2_cap/img/cypeflow.png>
@@ -2143,7 +2143,7 @@ Capitolo 3.
 
 
 
-] <6_2_cap/img/SatellitareED2.png, id=122, 906.38625pt x 545.03625pt>
+] <6_2_cap/img/SatellitareED2.png, id=125, 906.38625pt x 545.03625pt>
 File: 6_2_cap/img/SatellitareED2.png Graphic file (type png)
 
 <use 6_2_cap/img/SatellitareED2.png>
@@ -2164,27 +2164,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [28 <./6_2_cap/img/SatellitareED2.png>]
-<6_2_cap/img/IFC1.png, id=131, 692.5875pt x 499.11469pt>
+<6_2_cap/img/IFC1.png, id=134, 692.5875pt x 499.11469pt>
 File: 6_2_cap/img/IFC1.png Graphic file (type png)
 
 <use 6_2_cap/img/IFC1.png>
 Package pdftex.def Info: 6_2_cap/img/IFC1.png used on input line 55.
 (pdftex.def)             Requested size: 234.00238pt x 168.63051pt.
 
-<6_2_cap/img/IFC2.png, id=132, 822.82407pt x 546.54187pt>
+<6_2_cap/img/IFC2.png, id=135, 822.82407pt x 546.54187pt>
 File: 6_2_cap/img/IFC2.png Graphic file (type png)
 
 <use 6_2_cap/img/IFC2.png>
 Package pdftex.def Info: 6_2_cap/img/IFC2.png used on input line 56.
 (pdftex.def)             Requested size: 234.00238pt x 155.43246pt.
 
-<6_2_cap/img/IFC3.png, id=133, 779.16093pt x 545.03625pt>
+<6_2_cap/img/IFC3.png, id=136, 779.16093pt x 545.03625pt>
 File: 6_2_cap/img/IFC3.png Graphic file (type png)
 
 <use 6_2_cap/img/IFC3.png>
 Package pdftex.def Info: 6_2_cap/img/IFC3.png used on input line 57.
 (pdftex.def)             Requested size: 234.00238pt x 163.68678pt.
- <6_2_cap/img/pan.jpg, id=134, 4978.6pt x 1734.48pt>
+ <6_2_cap/img/pan.jpg, id=137, 4978.6pt x 1734.48pt>
 File: 6_2_cap/img/pan.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/pan.jpg>
@@ -2212,28 +2212,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [31 <./6_2_cap/img/pan.jpg>]
-<6_2_cap/img/ed2dx.jpg, id=148, 3019.28pt x 5364.04pt>
+<6_2_cap/img/ed2dx.jpg, id=151, 3019.28pt x 5364.04pt>
 File: 6_2_cap/img/ed2dx.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/ed2dx.jpg>
 Package pdftex.def Info: 6_2_cap/img/ed2dx.jpg used on input line 75.
 (pdftex.def)             Requested size: 133.28178pt x 236.79639pt.
 
-<6_2_cap/img/ed2sx.jpg, id=149, 3019.28pt x 5364.04pt>
+<6_2_cap/img/ed2sx.jpg, id=152, 3019.28pt x 5364.04pt>
 File: 6_2_cap/img/ed2sx.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/ed2sx.jpg>
 Package pdftex.def Info: 6_2_cap/img/ed2sx.jpg used on input line 76.
 (pdftex.def)             Requested size: 133.28178pt x 236.79639pt.
 
-<6_2_cap/img/ed23.jpg, id=150, 3019.28pt x 5364.04pt>
+<6_2_cap/img/ed23.jpg, id=153, 3019.28pt x 5364.04pt>
 File: 6_2_cap/img/ed23.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/ed23.jpg>
 Package pdftex.def Info: 6_2_cap/img/ed23.jpg used on input line 77.
 (pdftex.def)             Requested size: 133.28178pt x 236.79639pt.
 
-<6_2_cap/img/ed22.jpg, id=151, 3019.28pt x 5364.04pt>
+<6_2_cap/img/ed22.jpg, id=154, 3019.28pt x 5364.04pt>
 File: 6_2_cap/img/ed22.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/ed22.jpg>
@@ -2257,7 +2257,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [33 <./6_2_cap/img/ed2dx.jpg> <./6_2_cap/img/ed2sx.jpg> <./6_2_cap/img/ed23.jpg
 > <./6_2_cap/img/ed22.jpg>]
-<6_2_cap/img/cop2.jpg, id=158, 5212.47375pt x 2829.57124pt>
+<6_2_cap/img/cop2.jpg, id=161, 5212.47375pt x 2829.57124pt>
 File: 6_2_cap/img/cop2.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/cop2.jpg>
@@ -2296,14 +2296,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [37
 
-] <6_2_cap/img/fin1.jpg, id=172, 4023.03pt x 3017.2725pt>
+] <6_2_cap/img/fin1.jpg, id=175, 4023.03pt x 3017.2725pt>
 File: 6_2_cap/img/fin1.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/fin1.jpg>
 Package pdftex.def Info: 6_2_cap/img/fin1.jpg used on input line 252.
 (pdftex.def)             Requested size: 390.0pt x 292.49092pt.
 
-<6_2_cap/img/fincb.jpg, id=173, 2931.95375pt x 3909.60625pt>
+<6_2_cap/img/fincb.jpg, id=176, 2931.95375pt x 3909.60625pt>
 File: 6_2_cap/img/fincb.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/fincb.jpg>
@@ -2312,7 +2312,7 @@ Package pdftex.def Info: 6_2_cap/img/fincb.jpg used on input line 258.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
 (Font)              scaled to size 10.0pt on input line 258.
 
-<6_2_cap/img/finq.jpg, id=174, 4023.03pt x 3017.2725pt>
+<6_2_cap/img/finq.jpg, id=177, 4023.03pt x 3017.2725pt>
 File: 6_2_cap/img/finq.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/finq.jpg>
@@ -2339,7 +2339,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40] <6_2_cap/img/deg.png, id=184, 755.82375pt x 428.35031pt>
+[40] <6_2_cap/img/deg.png, id=187, 755.82375pt x 428.35031pt>
 File: 6_2_cap/img/deg.png Graphic file (type png)
 
 <use 6_2_cap/img/deg.png>
@@ -2353,7 +2353,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [41 <./6_2_cap/img/deg.png>]
-<6_2_cap/img/lab.png, id=189, 756.57657pt x 423.08063pt>
+<6_2_cap/img/lab.png, id=193, 756.57657pt x 423.08063pt>
 File: 6_2_cap/img/lab.png Graphic file (type png)
 
 <use 6_2_cap/img/lab.png>
@@ -2367,7 +2367,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [42 <./6_2_cap/img/lab.png>]
-<6_2_cap/img/stm.png, id=195, 753.5653pt x 423.08063pt>
+<6_2_cap/img/stm.png, id=198, 753.5653pt x 423.08063pt>
 File: 6_2_cap/img/stm.png Graphic file (type png)
 
 <use 6_2_cap/img/stm.png>
@@ -2381,7 +2381,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [43 <./6_2_cap/img/stm.png>]
-<6_2_cap/img/cuc.png, id=200, 761.84625pt x 419.31656pt>
+<6_2_cap/img/cuc.png, id=203, 761.84625pt x 419.31656pt>
 File: 6_2_cap/img/cuc.png Graphic file (type png)
 
 <use 6_2_cap/img/cuc.png>
@@ -2406,28 +2406,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45] <6_2_cap/img/radiatore.jpg, id=208, 4525.90875pt x 3017.2725pt>
+[45] <6_2_cap/img/radiatore.jpg, id=211, 4525.90875pt x 3017.2725pt>
 File: 6_2_cap/img/radiatore.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/radiatore.jpg>
 Package pdftex.def Info: 6_2_cap/img/radiatore.jpg used on input line 446.
 (pdftex.def)             Requested size: 175.49881pt x 116.98715pt.
 
-<6_2_cap/img/P4RadFan.jpg, id=209, 3845.36626pt x 2563.5775pt>
+<6_2_cap/img/P4RadFan.jpg, id=212, 3845.36626pt x 2563.5775pt>
 File: 6_2_cap/img/P4RadFan.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/P4RadFan.jpg>
 Package pdftex.def Info: 6_2_cap/img/P4RadFan.jpg used on input line 447.
 (pdftex.def)             Requested size: 175.49881pt x 116.99892pt.
 
-<6_2_cap/img/P4FanCoil.jpg, id=210, 3657.665pt x 2438.10875pt>
+<6_2_cap/img/P4FanCoil.jpg, id=213, 3657.665pt x 2438.10875pt>
 File: 6_2_cap/img/P4FanCoil.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/P4FanCoil.jpg>
 Package pdftex.def Info: 6_2_cap/img/P4FanCoil.jpg used on input line 448.
 (pdftex.def)             Requested size: 175.49881pt x 116.96465pt.
 
-<6_2_cap/img/P3Aer.jpg, id=211, 4525.90875pt x 3017.2725pt>
+<6_2_cap/img/P3Aer.jpg, id=214, 4525.90875pt x 3017.2725pt>
 File: 6_2_cap/img/P3Aer.jpg Graphic file (type jpg)
 
 <use 6_2_cap/img/P3Aer.jpg>
@@ -2437,33 +2437,33 @@ Package pdftex.def Info: 6_2_cap/img/P3Aer.jpg used on input line 449.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<6_2_cap/img/PT.png, id=212, 1145.69763pt x 770.88pt>
+<6_2_cap/img/PT.png, id=215, 1145.69763pt x 770.88pt>
 File: 6_2_cap/img/PT.png Graphic file (type png)
  <use 6_2_cap/img/PT.png>
 Package pdftex.def Info: 6_2_cap/img/PT.png used on input line 464.
 (pdftex.def)             Requested size: 592.0pt x 398.31918pt.
 
-<6_2_cap/img/P1.png, id=213, 750.08653pt x 245.718pt>
+<6_2_cap/img/P1.png, id=216, 750.08653pt x 245.718pt>
 File: 6_2_cap/img/P1.png Graphic file (type png)
  <use 6_2_cap/img/P1.png>
 Package pdftex.def Info: 6_2_cap/img/P1.png used on input line 470.
 (pdftex.def)             Requested size: 592.0pt x 193.93512pt.
 
-<6_2_cap/img/P2.png, id=214, 745.7123pt x 243.62598pt>
+<6_2_cap/img/P2.png, id=217, 745.7123pt x 243.62598pt>
 File: 6_2_cap/img/P2.png Graphic file (type png)
 
 <use 6_2_cap/img/P2.png>
 Package pdftex.def Info: 6_2_cap/img/P2.png used on input line 476.
 (pdftex.def)             Requested size: 592.0pt x 193.41034pt.
 
-<6_2_cap/img/P3.png, id=215, 734.30124pt x 247.81003pt>
+<6_2_cap/img/P3.png, id=218, 734.30124pt x 247.81003pt>
 File: 6_2_cap/img/P3.png Graphic file (type png)
 
 <use 6_2_cap/img/P3.png>
 Package pdftex.def Info: 6_2_cap/img/P3.png used on input line 482.
 (pdftex.def)             Requested size: 592.0pt x 199.7986pt.
 
-<6_2_cap/img/P4.png, id=216, 738.48529pt x 251.04315pt>
+<6_2_cap/img/P4.png, id=219, 738.48529pt x 251.04315pt>
 File: 6_2_cap/img/P4.png Graphic file (type png)
 
 <use 6_2_cap/img/P4.png>
@@ -2520,42 +2520,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [52 <./6_2_cap/img/P4.png>]
-<6_2_cap/img/rad.png, id=244, 606.76688pt x 334.24875pt>
+<6_2_cap/img/rad.png, id=247, 606.76688pt x 334.24875pt>
 File: 6_2_cap/img/rad.png Graphic file (type png)
 
 <use 6_2_cap/img/rad.png>
 Package pdftex.def Info: 6_2_cap/img/rad.png used on input line 502.
 (pdftex.def)             Requested size: 175.49881pt x 96.67464pt.
 
-<6_2_cap/img/vpiano.png, id=245, 617.30624pt x 334.24875pt>
+<6_2_cap/img/vpiano.png, id=248, 617.30624pt x 334.24875pt>
 File: 6_2_cap/img/vpiano.png Graphic file (type png)
 
 <use 6_2_cap/img/vpiano.png>
 Package pdftex.def Info: 6_2_cap/img/vpiano.png used on input line 503.
 (pdftex.def)             Requested size: 175.49881pt x 95.02727pt.
 
-<6_2_cap/img/emo.png, id=246, 607.51968pt x 334.24875pt>
+<6_2_cap/img/emo.png, id=249, 607.51968pt x 334.24875pt>
 File: 6_2_cap/img/emo.png Graphic file (type png)
 
 <use 6_2_cap/img/emo.png>
 Package pdftex.def Info: 6_2_cap/img/emo.png used on input line 504.
 (pdftex.def)             Requested size: 175.49881pt x 96.55733pt.
 
-<6_2_cap/img/utic.png, id=247, 608.2725pt x 331.99031pt>
+<6_2_cap/img/utic.png, id=250, 608.2725pt x 331.99031pt>
 File: 6_2_cap/img/utic.png Graphic file (type png)
 
 <use 6_2_cap/img/utic.png>
 Package pdftex.def Info: 6_2_cap/img/utic.png used on input line 505.
 (pdftex.def)             Requested size: 175.49881pt x 95.78334pt.
 
-<6_2_cap/img/ca.png, id=248, 609.02531pt x 335.75438pt>
+<6_2_cap/img/ca.png, id=251, 609.02531pt x 335.75438pt>
 File: 6_2_cap/img/ca.png Graphic file (type png)
 
 <use 6_2_cap/img/ca.png>
 Package pdftex.def Info: 6_2_cap/img/ca.png used on input line 506.
 (pdftex.def)             Requested size: 175.49881pt x 96.75148pt.
 
-<6_2_cap/img/cb.png, id=249, 610.53094pt x 332.74312pt>
+<6_2_cap/img/cb.png, id=252, 610.53094pt x 332.74312pt>
 File: 6_2_cap/img/cb.png Graphic file (type png)
 
 <use 6_2_cap/img/cb.png>
@@ -2676,7 +2676,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[67] <6_4_cap/img/cavedi.png, id=304, 794.97pt x 268.21465pt>
+[67] <6_4_cap/img/cavedi.png, id=307, 794.97pt x 268.21465pt>
 File: 6_4_cap/img/cavedi.png Graphic file (type png)
 
 <use 6_4_cap/img/cavedi.png>
@@ -2713,35 +2713,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[70] <6_4_cap/img/idr1.png, id=315, 638.385pt x 330.48468pt>
+[70] <6_4_cap/img/idr1.png, id=318, 638.385pt x 330.48468pt>
 File: 6_4_cap/img/idr1.png Graphic file (type png)
 
 <use 6_4_cap/img/idr1.png>
 Package pdftex.def Info: 6_4_cap/img/idr1.png used on input line 318.
 (pdftex.def)             Requested size: 390.0pt x 201.89792pt.
 
-<6_4_cap/img/idr2.png, id=316, 621.82312pt x 272.51813pt>
+<6_4_cap/img/idr2.png, id=319, 621.82312pt x 272.51813pt>
 File: 6_4_cap/img/idr2.png Graphic file (type png)
 
 <use 6_4_cap/img/idr2.png>
 Package pdftex.def Info: 6_4_cap/img/idr2.png used on input line 319.
 (pdftex.def)             Requested size: 390.0pt x 170.9222pt.
 
-<6_4_cap/img/aer1.png, id=317, 787.44188pt x 496.85625pt>
+<6_4_cap/img/aer1.png, id=320, 787.44188pt x 496.85625pt>
 File: 6_4_cap/img/aer1.png Graphic file (type png)
 
 <use 6_4_cap/img/aer1.png>
 Package pdftex.def Info: 6_4_cap/img/aer1.png used on input line 334.
 (pdftex.def)             Requested size: 350.99762pt x 221.46803pt.
 
-<6_4_cap/img/aer2.png, id=318, 867.24pt x 487.8225pt>
+<6_4_cap/img/aer2.png, id=321, 867.24pt x 487.8225pt>
 File: 6_4_cap/img/aer2.png Graphic file (type png)
 
 <use 6_4_cap/img/aer2.png>
 Package pdftex.def Info: 6_4_cap/img/aer2.png used on input line 335.
 (pdftex.def)             Requested size: 350.99762pt x 197.44049pt.
 
-<6_4_cap/img/aeraulica.png, id=319, 735.4089pt x 249.24614pt>
+<6_4_cap/img/aeraulica.png, id=322, 735.4089pt x 249.24614pt>
 File: 6_4_cap/img/aeraulica.png Graphic file (type png)
 
 <use 6_4_cap/img/aeraulica.png>
@@ -2866,7 +2866,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[87] <6_4_cap/img/geot.png, id=380, 597.50787pt x 845.04684pt>
+[87] <6_4_cap/img/geot.png, id=383, 597.50787pt x 845.04684pt>
 File: 6_4_cap/img/geot.png Graphic file (type png)
 
 <use 6_4_cap/img/geot.png>
@@ -2893,7 +2893,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[90] <6_4_cap/img/sottocentr.png, id=392, 438.8897pt x 622.57594pt>
+[90] <6_4_cap/img/sottocentr.png, id=395, 438.8897pt x 622.57594pt>
 File: 6_4_cap/img/sottocentr.png Graphic file (type png)
 
 <use 6_4_cap/img/sottocentr.png>
@@ -2991,8 +2991,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 [102]) [103] (TESI_SPEC_NON_CANCELLARE.aux (0_frontespizio/frontespizio.aux)
 (1_dedica/dedica.aux) (11_dedica/dedica.aux)
-(3_indicegenerale/indicegenerale.aux) (2_sommario/sommario.aux)
-(9_ringraziamenti/ringra.aux) (6_1_cap/1_cap.aux) (6_3_cap/3_cap.aux)
+(3_indicegenerale/indicegenerale.aux) (9_ringraziamenti/ringra.aux)
+(2_sommario/sommario.aux) (6_1_cap/1_cap.aux) (6_3_cap/3_cap.aux)
 (6_2_cap/2_cap.aux) (6_4_cap/4_cap.aux) (6_5_cap/5_cap.aux)
 (8_biblio/biblio.aux) (4_elencofig/elencofig.aux) (5_elencotab/elencotab.aux)
 (10_dedfinale/dedfinale.aux))
@@ -3025,9 +3025,9 @@ ibertineT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibe
 rtineTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibert
 ineTBI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLiberti
 neTI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on TESI_SPEC_NON_CANCELLARE.pdf (110 pages, 45657761 bytes).
+Output written on TESI_SPEC_NON_CANCELLARE.pdf (111 pages, 45658137 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
+ 479 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
