@@ -46,16 +46,16 @@
 \contentsline {section}{\numberline {4.3}L'impianto - Lato Utenza}{68}
 \contentsline {subsection}{\numberline {4.3.1}Impianto Idronico}{68}
 \contentsline {subsection}{\numberline {4.3.2}Impianto Aeraulico}{71}
-\contentsline {section}{\numberline {4.4}L'impianto - Lato Sottocentrale}{71}
+\contentsline {section}{\numberline {4.4}L'impianto - Lato Sottocentrale}{75}
 \contentsline {subsection}{\numberline {4.4.1}Acqua Calda}{75}
-\contentsline {subsection}{\numberline {4.4.2}Acqua Refrigerata}{77}
+\contentsline {subsection}{\numberline {4.4.2}Acqua Refrigerata}{78}
 \contentsline {subsubsection}{L'assorbitore}{78}
 \contentsline {subsubsection}{La pompa di calore e l'impianto geotermico}{82}
 \contentsline {paragraph}{L'aria}{83}
 \contentsline {paragraph}{L'acqua}{84}
-\contentsline {paragraph}{L'energia solare}{84}
+\contentsline {paragraph}{L'energia solare}{85}
 \contentsline {paragraph}{Il terreno}{85}
-\contentsline {subsubsection}{Gli scambiatori}{90}
+\contentsline {subsubsection}{Gli scambiatori}{89}
 \contentsline {chapter}{\numberline {5}Conclusioni}{93}
 \contentsline {chapter}{Bibliografia}{98}
 \contentsline {chapter}{Elenco delle figure}{99}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  28 MAY 2018 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  28 MAY 2018 15:26
 entering extended mode
 **./TESI_SPEC_NON_CANCELLARE.tex
 (TESI_SPEC_NON_CANCELLARE.tex
@@ -1899,10 +1899,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 
 
 
-]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 15.
- [5]) [6]
+] [5]) [6]
 \openout2 = `2_sommario/sommario.aux'.
 
  (2_sommario/sommario.tex [1
@@ -2782,7 +2779,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[75]
+[75
+
+]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2866,11 +2865,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[87] <6_4_cap/img/geot.png, id=383, 597.50787pt x 845.04684pt>
+[87]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[88] <6_4_cap/img/geot.png, id=386, 597.50787pt x 845.04684pt>
 File: 6_4_cap/img/geot.png Graphic file (type png)
 
 <use 6_4_cap/img/geot.png>
-Package pdftex.def Info: 6_4_cap/img/geot.png used on input line 621.
+Package pdftex.def Info: 6_4_cap/img/geot.png used on input line 622.
 (pdftex.def)             Requested size: 390.0pt x 551.56914pt.
 
 
@@ -2879,25 +2885,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[88]
+[89]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[89 <./6_4_cap/img/geot.png>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[90] <6_4_cap/img/sottocentr.png, id=395, 438.8897pt x 622.57594pt>
+[90 <./6_4_cap/img/geot.png>]
+<6_4_cap/img/sottocentr.png, id=395, 438.8897pt x 622.57594pt>
 File: 6_4_cap/img/sottocentr.png Graphic file (type png)
 
 <use 6_4_cap/img/sottocentr.png>
-Package pdftex.def Info: 6_4_cap/img/sottocentr.png used on input line 645.
+Package pdftex.def Info: 6_4_cap/img/sottocentr.png used on input line 644.
 (pdftex.def)             Requested size: 390.0pt x 553.23587pt.
 )
 
@@ -3002,11 +3002,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39352 strings out of 493323
- 915970 string characters out of 3139025
+ 39350 strings out of 493323
+ 915911 string characters out of 3139025
  1108816 words of memory out of 3000000
- 42111 multiletter control sequences out of 15000+200000
- 710259 words of font info for 137 fonts, out of 3000000 for 9000
+ 42110 multiletter control sequences out of 15000+200000
+ 706031 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,96p,10398b,984s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertinust1math/libusEX.enc}{C:
@@ -3025,7 +3025,7 @@ ibertineT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibe
 rtineTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibert
 ineTBI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLiberti
 neTI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on TESI_SPEC_NON_CANCELLARE.pdf (111 pages, 45658274 bytes).
+Output written on TESI_SPEC_NON_CANCELLARE.pdf (111 pages, 45658037 bytes).
 PDF statistics:
  479 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
