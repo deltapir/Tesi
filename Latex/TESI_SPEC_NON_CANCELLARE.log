@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  29 MAY 2018 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.2.11)  31 MAY 2018 15:50
 entering extended mode
 **./TESI_SPEC_NON_CANCELLARE.tex
 (TESI_SPEC_NON_CANCELLARE.tex
@@ -2944,16 +2944,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [96]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[97]
 \openout2 = `8_biblio/biblio.aux'.
 
- (8_biblio/biblio.tex) [98
+ (8_biblio/biblio.tex) [97
 
 
 
@@ -2966,7 +2959,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \tf@lof=\write5
 \openout5 = `TESI_SPEC_NON_CANCELLARE.lof'.
 
-) [99
+) [98
 
 
 
@@ -2978,18 +2971,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \tf@lot=\write6
 \openout6 = `TESI_SPEC_NON_CANCELLARE.lot'.
 
-) [100
+) [99
 
 
 
 ]
 \openout2 = `10_dedfinale/dedfinale.aux'.
 
- (10_dedfinale/dedfinale.tex [101
+ (10_dedfinale/dedfinale.tex [100
 
 
-]
-[102]) [103] (TESI_SPEC_NON_CANCELLARE.aux (0_frontespizio/frontespizio.aux)
+] [101])
+[102] (TESI_SPEC_NON_CANCELLARE.aux (0_frontespizio/frontespizio.aux)
 (1_dedica/dedica.aux) (11_dedica/dedica.aux)
 (3_indicegenerale/indicegenerale.aux) (9_ringraziamenti/ringra.aux)
 (2_sommario/sommario.aux) (6_1_cap/1_cap.aux) (6_3_cap/3_cap.aux)
@@ -3002,11 +2995,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39350 strings out of 493323
- 915911 string characters out of 3139025
- 1108816 words of memory out of 3000000
- 42110 multiletter control sequences out of 15000+200000
- 706031 words of font info for 135 fonts, out of 3000000 for 9000
+ 39348 strings out of 493323
+ 915888 string characters out of 3139025
+ 1108815 words of memory out of 3000000
+ 42109 multiletter control sequences out of 15000+200000
+ 705914 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,96p,10398b,984s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertinust1math/libusEX.enc}{C:
@@ -3024,10 +3017,10 @@ rtinusT1Math.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinL
 ibertineT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibe
 rtineTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibert
 ineTBI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLiberti
-neTI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on TESI_SPEC_NON_CANCELLARE.pdf (111 pages, 45658192 bytes).
+neTI.pfb>
+Output written on TESI_SPEC_NON_CANCELLARE.pdf (110 pages, 45648558 bytes).
 PDF statistics:
- 479 PDF objects out of 1000 (max. 8388607)
+ 472 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
